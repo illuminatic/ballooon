@@ -22,4 +22,6 @@
 
 #Ignore the workspace.xml
 .idea/workspace.xml
+.idea/.rakeTasks
+
 
